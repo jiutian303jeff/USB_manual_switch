@@ -3,8 +3,7 @@
 
 ## 📢 Current Update 
 ## (August 30, 2026)
-### Overview link: https://docs.google.com/document/d/1pLDk2mAq172Uoo87mN2TMu-KEBSsqmwrNO6xUET-iXo/edit?usp=drive_link
-### current update: https://docs.google.com/document/d/1X9TlPd9sVfkH2GCSMDSQgF4tiR_iDZ1_ytxDP3pgHG8/edit?usp=drive_link
+### Overview & current update link: https://docs.google.com/document/d/1pLDk2mAq172Uoo87mN2TMu-KEBSsqmwrNO6xUET-iXo/edit?usp=drive_link
 
 **Ver 2.0 Final Fabrication Release & Design Freeze**
 * **TVS ESD Protection Integration**: Integrated an industrial-grade **SRV05-4** TVS diode array to clamp electrostatic discharge and voltage spikes during hot-plugging.
