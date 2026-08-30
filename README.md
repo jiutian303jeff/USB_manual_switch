@@ -44,6 +44,8 @@ note: content will change over time based on latest updates
 ├── USB-A switch ver-xx.xx_update.pdf    # Updating report detailing new elements, technical iteration & design rationale https://docs.google.com/document/d/1X9TlPd9sVfkH2GCSMDSQgF4tiR_iDZ1_ytxDP3pgHG8/edit?usp=sharing
 ├── new_KiCAD_thing.kicad_pcb            # KiCAD PCB layout source file
 ├── new_KiCAD_thing.kicad_sch            # KiCAD schematic source file
+├── PCB.png                              # High-resolution PCB Layout diagram preview
+├── Schematic.png                        # High-resolution Schematic diagram preview
 └── README.md                            # Project documentation
 ```
 
