@@ -40,7 +40,6 @@ note: content will change over time based on latest updates
 ├── final.zip                            # Complete manufacturing package (All Gerbers, Drill files etc)
 ├── USB-A switch overview.pdf            # Initial Ver 1.0 baseline documentation & overall project concept
 ├── USB-A switch ver-xx.xx_update.pdf    # Updating report detailing new elements, technical iteration & design rationale
-├── Schematics/                          # KiCAD schematic source files & PDF exports
 ├── new_KiCAD_thing.kicad_pcb            # KiCAD PCB layout source file
 ├── new_KiCAD_thing.kicad_sch            # KiCAD schematic source file
 └── README.md                            # Project documentation
