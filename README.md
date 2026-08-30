@@ -1,8 +1,8 @@
 # USB-A Physical Isolation Switch
 ---
 
-## 📢 Current Update (August 30, 2026)
-
+## 📢 Current Update 
+## (August 30, 2026)(new updates PDF report can be found in "File Content" google drive link if you can not open the PDF in github)
 **Ver 2.0 Final Fabrication Release & Design Freeze**
 * **TVS ESD Protection Integration**: Integrated an industrial-grade **SRV05-4** TVS diode array to clamp electrostatic discharge and voltage spikes during hot-plugging.
 * **$D+/D-$ Signal Tuning**: Executed single-track serpentine length tuning on differential signal traces, achieving **$0.00\text{ mm}$ skew** to optimize USB 2.0 signal integrity.
@@ -33,7 +33,7 @@ note: content will change over time based on latest updates
 
 ---
 
-## 📁 File Structure & Documentation Guide
+## 📁 File content
 
 ```text
 .
@@ -45,12 +45,6 @@ note: content will change over time based on latest updates
 └── README.md                            # Project documentation
 ```
 
-### Document Overview:
-1. **`final.zip`**: The primary manufacturing archive containing all production Gerber (`.gbr`) files, drill (`.drl`) files, and 3D CAD models (`.step`) ready for direct upload to PCB fabricators (e.g., JLCPCB, PCBWay).
-2. **`USB-A switch overview.pdf`**: The foundational project report for **Ver 1.0**, explaining the original hardware design, 3D routing strategies, psychological value of tactile control, and basic physical isolation logic.
-3. **`USB-A switch ver-xx.xx_update.pdf`**: The engineering update document for **Ver 2.0**, detailing the transition to SRV05-4 TVS ESD protection, $D+/D-$ differential length tuning, solid ground copper pouring, and single-sided component layout optimizations.
-
----
 
 ## 👤 Author & Acknowledgments
 
