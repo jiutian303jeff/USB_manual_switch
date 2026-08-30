@@ -8,7 +8,7 @@
 * **$D+/D-$ Signal Tuning**: Executed single-track serpentine length tuning on differential signal traces, achieving **$0.00\text{ mm}$ skew** to optimize USB 2.0 signal integrity.
 * **100% Single-Sided Top Placement**: Re-engineered component placement, consolidating all connectors, switches, TVS ICs, and LEDs onto the Top Layer ($	ext{F.Cu}$) for an improved visual aesthetic and lower-cost single-sided SMT reflow.
 * **Ground Copper Pour**: Replaced thin discrete ground tracks with continuous Top and Bottom Ground Planes to minimize impedance and lower EMI.
-* **Manufacturing Package**: All production Gerber files, drill files, and 3D CAD STEP models have been verified via KiCAD DRC (0 Errors) and packaged for fabrication.
+* **Manufacturing Package**: All production Gerber files, drill files have been verified via KiCAD DRC (0 Errors) and packaged for fabrication.
 
 ---
 
